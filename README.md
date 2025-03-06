@@ -1,4 +1,4 @@
-<span style="font-size: 12px;">
+<span style="font-size: 8px;">
   
 (ﾟ⊿ﾟ) noobb - bruh, just getting started  
 
