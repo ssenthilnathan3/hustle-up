@@ -2,7 +2,8 @@
   
 (ﾟ⊿ﾟ) noobb - bruh, just getting started  
 
-- [ ] Reverse Proxy & Load Balancer  
+- [ ] Reverse Proxy
+- [ ] Load Balancer  
 - [ ] VPN or Firewall  
 
 ɾ⚈▿⚈ɹ pro - bro is cookin'  
