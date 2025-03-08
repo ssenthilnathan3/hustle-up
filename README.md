@@ -1,7 +1,7 @@
 <span style="font-size: 8px;">
 
-i like hpc and networking but idk how i am gonna get into that space. i have none to little knowledge about it.
-im gonna try maybe i'll fail. maybe i will win. idk but i NEED to do this. (to get into hpc)
+i like hpc and networking but idk how i am gonna get into that space. i have none to little knowledge about it. i know the concepts (some). imma try coding it my way now.
+im gonna try maybe i'll fail. maybe i will win. idk but i NEED to do this. (to get into hpc).
   
 (ﾟ⊿ﾟ) noobb - bruh, just getting started  
 
