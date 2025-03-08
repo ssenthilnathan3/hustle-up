@@ -3,7 +3,7 @@
 (ﾟ⊿ﾟ) noobb - bruh, just getting started  
 
 - [x] Reverse Proxy https://github.com/ssenthilnathan3/rpxy.git
-- [ ] Load Balancer  
+- [ ] Load Balancer (inprogress) https://github.com/ssenthilnathan3/loba.git
 - [ ] VPN or Firewall  
 
 ɾ⚈▿⚈ɹ pro - bro is cookin'  
